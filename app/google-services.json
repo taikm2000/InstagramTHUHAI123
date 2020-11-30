@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619517867292",
+    "firebase_url": "https://instagramthuhai.firebaseio.com",
+    "project_id": "instagramthuhai",
+    "storage_bucket": "instagramthuhai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619517867292:android:2317d0cae24f6356f0f6d9",
+        "android_client_info": {
+          "package_name": "com.example.instagramthuhai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619517867292-5f08e6k62k43rmmbc4nr46hiq0a4q79k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagramthuhai",
+            "certificate_hash": "89fe6915cdf7671a980b77dcacf9ce81f3a254c0"
+          }
+        },
+        {
+          "client_id": "619517867292-sj7p2m53cvibok8ip3p0qtqiimv56mk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTscWiP2GfLW9qwQUu_Zwix2xREPYe08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619517867292-sj7p2m53cvibok8ip3p0qtqiimv56mk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
